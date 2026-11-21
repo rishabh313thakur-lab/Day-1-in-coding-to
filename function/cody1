@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std ;
+// Function declaration
+void riddhi(int a , int b ){
+int product = a * b ; 
+cout<<product<<endl; 
+}
+
+
+int main() {
+    int a, b;
+    std::cin >> a >> b;
+    // Call the function with a and b as arguments
+    riddhi(a , b);
+    return 0;
+}

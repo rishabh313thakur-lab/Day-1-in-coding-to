@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// postive integer
 int main() {
 //     int age = 25;
 // cout << "sizeof(age): " << sizeof(age) << " bytes" << endl;
